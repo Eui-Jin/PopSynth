@@ -10,7 +10,7 @@ This model is to generate the synthetic population based on deep generative mode
 
 ### Dependencies
 * Python 3.11.4
-* Tensorflow 2.13.0 , Keras 2.13.1, Tensorflow-lattice 2.0.11
+* Tensorflow 2.13.0 , Keras 2.13.1
 
 ### Components
 
